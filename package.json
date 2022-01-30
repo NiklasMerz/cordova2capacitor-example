@@ -23,5 +23,10 @@
     "platforms": [
       "ios"
     ]
+  },
+  "dependencies": {
+    "@capacitor/cli": "^3.4.0",
+    "@capacitor/core": "^3.4.0",
+    "@capacitor/ios": "^3.4.0"
   }
 }

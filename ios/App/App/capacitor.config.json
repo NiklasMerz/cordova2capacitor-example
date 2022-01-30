@@ -1,0 +1,11 @@
+{
+	"appId": "dev.merz.cordova2capcitor",
+	"appName": "Cordova2Capacitor",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"cordova": {
+		"preferences": {
+			"SwiftVersion": "5.0"
+		}
+	}
+}
